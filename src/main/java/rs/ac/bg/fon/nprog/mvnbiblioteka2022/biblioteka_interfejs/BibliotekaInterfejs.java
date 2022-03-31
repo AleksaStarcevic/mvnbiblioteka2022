@@ -23,7 +23,7 @@ public interface BibliotekaInterfejs {
 	 * @throws java.lang.IllegalArgumentException ako uneta knjiga vec postoji u biblioteci
 	 * 
 	 * @see <a href = "https://github.com">GutHub sajt</a>
-	 * @see biblioteka.Knjiga
+//	 * @see biblioteka.Knjiga
 	 */
 	public void dodajKnjigu(Knjiga knjiga);
 	
